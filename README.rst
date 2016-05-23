@@ -53,7 +53,7 @@ Getting help::
       dependants     Show packages that dependent on a package
       provides       Show that which is provided by a given package
       obsoletes      Show that which is obsoleted by a given package
-    ..  conflicts      Show that which is marked as "conflict" by a given package
+      conflicts      Show that which is marked as "conflict" by a given package
 
       To get the help of a command use "pkgwat help [command]".
 You can search for packages::
